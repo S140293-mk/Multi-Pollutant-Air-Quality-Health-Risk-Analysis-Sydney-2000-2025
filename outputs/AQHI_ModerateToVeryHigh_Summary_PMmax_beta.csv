@@ -1,0 +1,10 @@
+AQHI_Band,Pollutant,Days_in_band,Mean_Total_%ER,Median_Total_%ER,Dominant_days_n,Dominant_days_%,Mean_%Drop_if_removed
+Moderate,PMmax,742,9.227,8.88,70,9.43,24.28
+Moderate,NO2,742,9.227,8.88,122,16.44,30.71
+Moderate,O3,742,9.227,8.88,550,74.12,47.7
+High,PMmax,50,15.902,15.489,42,84.0,52.59
+High,NO2,50,15.902,15.489,0,0.0,16.93
+High,O3,50,15.902,15.489,8,16.0,34.67
+Very High,PMmax,14,31.053,27.05,14,100.0,73.97
+Very High,NO2,14,31.053,27.05,0,0.0,10.58
+Very High,O3,14,31.053,27.05,0,0.0,20.99
